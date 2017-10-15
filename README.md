@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-This App is a simple sample of using React to query JSON API with Axios and use React Bootstrap to display results.
+This App is a simple sample of using React to query JSON API with Axios and use React Bootstrap to display results.<br>
+It display Chuck Norris quotes from the **[Chuck Norris joke API](https://api.chucknorris.io/)**.<br>
 It is based on the React Pure Stateless Component pattern.
 
 ## Table of Contents
