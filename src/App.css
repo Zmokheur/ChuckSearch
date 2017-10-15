@@ -1,0 +1,43 @@
+.App {
+  text-align: justify;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 64px;
+  float: left;
+}
+
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-body {
+  font-size: large;
+}
+
+blockquote p::before {
+    content: "\f10d";
+    font-family: "FontAwesome";
+    color: #999999;
+    margin-right: 10px;
+}
+
+blockquote p::after {
+    content: "\f10e";
+    font-family: "FontAwesome";
+    color: #999999;
+    margin-left: 10px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
