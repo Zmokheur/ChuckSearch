@@ -69,7 +69,7 @@ const ChuckResultPure = ({ results }) => {
 
 };
 
-ChuckInputPure.propTypes = {
+ChuckResultPure.propTypes = {
   results: PropTypes.array,
 }
 
